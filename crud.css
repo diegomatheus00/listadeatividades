@@ -1,0 +1,39 @@
+div {   
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #8B0000;
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+button {
+    color: white;
+    background-color: #6A5ACD;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+  border-color: white;
+
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color:white; 
+    margin-left: 20px; 
+}
+
+input {
+    margin-left: 22px;
+    background-color: #6A5ACD;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    color:white;
+}
+     
